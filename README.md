@@ -9,7 +9,7 @@ This experimental kit provides you the facility to check and verify your IOT pro
 * IOT systems have applications across industries through their unique flexibility and ability to be suitable in any environment. They enhance data collection, automation, operations, and much more through smart devices and powerful enabling technology.
 
 ##**BOARD SPECIFICATIONS**
-we are providing following interfacings on board
+* we are providing following interfacings on board
 * DHT interfacing
 * bluetooth sensor
 * WI-FI(ESP8266)
