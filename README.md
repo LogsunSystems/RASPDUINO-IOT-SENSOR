@@ -24,4 +24,7 @@ we are providing following interfacings on board
 * 400 points on board breadboard interfacing for further experiments.
 
 
-##[GOOGLE DRIVE LINK](https://drive.google.com/file/d/17AKoKvmOfb26LWJAPuifU5B-RI3DSGVX/view?usp=sharing)
+##**SOFTWARE**
+
+## [GOOGLE DRIVE LINK FOR CH340 drivers,Arduino IDE](https://drive.google.com/file/d/17AKoKvmOfb26LWJAPuifU5B-RI3DSGVX/view?usp=sharing)
+## [for updated version of Arduino IDE click here](https://support.arduino.cc/hc/en-us/categories/360002212660-Software-and-Downloads)
