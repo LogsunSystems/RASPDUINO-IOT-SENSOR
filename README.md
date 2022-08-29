@@ -1,6 +1,6 @@
 # RASPDUINO-IOT-SENSOR
 
-This experimental kit provides you the facility to check and verify your IOT projects on ARDUINO and RASPBERRY PI on a single board.
+This experimental kit provides you the facility to check and verify your IOT projects on **ARDUINO** and **RASPBERRY PI** on a single board.
 
 ##**INTRODUCTION**
 
@@ -20,6 +20,7 @@ we are providing following interfacings on board
 * 4*4 Matrix Keypad
 * RElay and Buzzer Interfacing
 * servo motor and stepper motor interfacing
+* 400 points on board breadboard interfacing for further experiments.
 
 
 ##[GOOGLE DRIVE LINK](https://drive.google.com/file/d/17AKoKvmOfb26LWJAPuifU5B-RI3DSGVX/view?usp=sharing)
