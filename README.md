@@ -1,14 +1,20 @@
 # RASPDUINO-IOT-SENSOR
 
+
 This Repository contains all the required information regarding **RASPDUINO IOT SENSOR LAB**
+
 
 **INTRODUCTION**
 
+
 * IOT (Internet of Things) is an advanced automation and analytics system which exploits networking, sensing, big data, and artificial intelligence technology to deliver complete systems for a product or service. These systems allow greater transparency, control, and performance when applied to any industry or system.
+
 
 * IOT systems have applications across industries through their unique flexibility and ability to be suitable in any environment. They enhance data collection, automation, operations, and much more through smart devices and powerful enabling technology.
 
+
 **BOARD SPECIFICATIONS**
+
 
 we are providing following interfacings on board
 * DHT interfacing
@@ -26,8 +32,10 @@ we are providing following interfacings on board
 
 **SOFTWARE**
 
+
 ### [GOOGLE DRIVE LINK FOR CH340 drivers,Arduino IDE](https://drive.google.com/file/d/17AKoKvmOfb26LWJAPuifU5B-RI3DSGVX/view?usp=sharing)
 ### [for updated version of Arduino IDE click here](https://support.arduino.cc/hc/en-us/categories/360002212660-Software-and-Downloads)
+
 
 **important link**
 #### [official website](http://www.logsun.com/)
