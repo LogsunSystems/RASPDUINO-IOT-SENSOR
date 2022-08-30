@@ -27,3 +27,7 @@ we are providing following interfacings on board
 
 ## [GOOGLE DRIVE LINK FOR CH340 drivers,Arduino IDE](https://drive.google.com/file/d/17AKoKvmOfb26LWJAPuifU5B-RI3DSGVX/view?usp=sharing)
 ## [for updated version of Arduino IDE click here](https://support.arduino.cc/hc/en-us/categories/360002212660-Software-and-Downloads)
+
+**important link**
+[official website](http://www.logsun.com/)
+[our products on INDIAMART](https://www.indiamart.com/logsunsystems/about-us.html)
