@@ -7,7 +7,7 @@ This Repository contains all the required information regarding **RASPDUINO IOT 
 
 * IOT systems have applications across industries through their unique flexibility and ability to be suitable in any environment. They enhance data collection, automation, operations, and much more through smart devices and powerful enabling technology.
 
-##**BOARD SPECIFICATIONS**
+**BOARD SPECIFICATIONS**
 
 we are providing following interfacings on board
 * DHT interfacing
@@ -23,7 +23,7 @@ we are providing following interfacings on board
 * 400 points on board breadboard interfacing for further experiments.
 
 
-##**SOFTWARE**
+**SOFTWARE**
 
 ## [GOOGLE DRIVE LINK FOR CH340 drivers,Arduino IDE](https://drive.google.com/file/d/17AKoKvmOfb26LWJAPuifU5B-RI3DSGVX/view?usp=sharing)
 ## [for updated version of Arduino IDE click here](https://support.arduino.cc/hc/en-us/categories/360002212660-Software-and-Downloads)
